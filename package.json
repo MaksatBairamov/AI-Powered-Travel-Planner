@@ -1,7 +1,6 @@
 {
   "name": "ai-powered-travel-planner",
   "version": "1.0.0",
-  "main": "index.html",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html"
