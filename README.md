@@ -59,7 +59,7 @@ npm run start
 
 The project will be available at:
 ```
-http://localhost:1234
+http://localhost:####
 ```
 
 ## Build the project
